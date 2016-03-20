@@ -533,10 +533,10 @@ ul.reset li a {
     z-index: 3;
     width: 800px;
     top: 40%;
-    left: 20%;
+    left: 50%;
     margin: 0 auto;
     text-align: center;
-    /*margin-left: -600px;*/
+    margin-left: -400px;
 }
 
 .sq_three_s2 ul li{
